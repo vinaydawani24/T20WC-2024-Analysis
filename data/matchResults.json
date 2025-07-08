@@ -1,0 +1,470 @@
+[
+  {
+    "date": "Jun 29, 2024",
+    "team1": "India",
+    "team2": "South Africa",
+    "winner": "India",
+    "margin": "7 runs",
+    "ground": "Bridgetown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/india-vs-south-africa-final-1415755/full-scorecard"
+  },
+  {
+    "date": "Jun 27, 2024",
+    "team1": "England",
+    "team2": "India",
+    "winner": "India",
+    "margin": "68 runs",
+    "ground": "Providence",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/england-vs-india-2nd-semi-final-1415754/full-scorecard"
+  },
+  {
+    "date": "Jun 26, 2024",
+    "team1": "Afghanistan",
+    "team2": "South Africa",
+    "winner": "South Africa",
+    "margin": "9 wickets",
+    "ground": "Tarouba",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-south-africa-1st-semi-final-1415753/full-scorecard"
+  },
+  {
+    "date": "Jun 24, 2024",
+    "team1": "Afghanistan",
+    "team2": "Bangladesh",
+    "winner": "Afghanistan",
+    "margin": "8 runs",
+    "ground": "Kingstown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-bangladesh-52nd-match-super-eights-group-1-1415752/full-scorecard"
+  },
+  {
+    "date": "Jun 24, 2024",
+    "team1": "Australia",
+    "team2": "India",
+    "winner": "India",
+    "margin": "24 runs",
+    "ground": "Gros Islet",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/australia-vs-india-51st-match-super-eights-group-1-1415751/full-scorecard"
+  },
+  {
+    "date": "Jun 23, 2024",
+    "team1": "West Indies",
+    "team2": "South Africa",
+    "winner": "South Africa",
+    "margin": "3 wickets",
+    "ground": "North Sound",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/west-indies-vs-south-africa-50th-match-super-eights-group-2-1415750/full-scorecard"
+  },
+  {
+    "date": "Jun 23, 2024",
+    "team1": "England",
+    "team2": "U.S.A.",
+    "winner": "England",
+    "margin": "10 wickets",
+    "ground": "Bridgetown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/england-vs-united-states-of-america-49th-match-super-eights-group-2-1415749/full-scorecard"
+  },
+  {
+    "date": "Jun 22, 2024",
+    "team1": "Afghanistan",
+    "team2": "Australia",
+    "winner": "Afghanistan",
+    "margin": "21 runs",
+    "ground": "Kingstown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-australia-48th-match-super-eights-group-1-1415748/full-scorecard"
+  },
+  {
+    "date": "Jun 22, 2024",
+    "team1": "Bangladesh",
+    "team2": "India",
+    "winner": "India",
+    "margin": "50 runs",
+    "ground": "North Sound",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-india-47th-match-super-eights-group-1-1415747/full-scorecard"
+  },
+  {
+    "date": "Jun 21, 2024",
+    "team1": "West Indies",
+    "team2": "U.S.A.",
+    "winner": "West Indies",
+    "margin": "9 wickets",
+    "ground": "Bridgetown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/west-indies-vs-united-states-of-america-46th-match-super-eights-group-2-1415746/full-scorecard"
+  },
+  {
+    "date": "Jun 21, 2024",
+    "team1": "England",
+    "team2": "South Africa",
+    "winner": "South Africa",
+    "margin": "7 runs",
+    "ground": "Gros Islet",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/england-vs-south-africa-45th-match-super-eights-group-2-1415745/full-scorecard"
+  },
+  {
+    "date": "Jun 20, 2024",
+    "team1": "Australia",
+    "team2": "Bangladesh",
+    "winner": "Australia",
+    "margin": "28 runs",
+    "ground": "North Sound",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/australia-vs-bangladesh-44th-match-super-eights-group-1-1415744/full-scorecard"
+  },
+  {
+    "date": "Jun 20, 2024",
+    "team1": "Afghanistan",
+    "team2": "India",
+    "winner": "India",
+    "margin": "47 runs",
+    "ground": "Bridgetown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-india-43rd-match-super-eights-group-1-1415743/full-scorecard"
+  },
+  {
+    "date": "Jun 19, 2024",
+    "team1": "West Indies",
+    "team2": "England",
+    "winner": "England",
+    "margin": "8 wickets",
+    "ground": "Gros Islet",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/west-indies-vs-england-42nd-match-super-eights-group-2-1415742/full-scorecard"
+  },
+  {
+    "date": "Jun 19, 2024",
+    "team1": "South Africa",
+    "team2": "U.S.A.",
+    "winner": "South Africa",
+    "margin": "18 runs",
+    "ground": "North Sound",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/south-africa-vs-united-states-of-america-41st-match-super-eights-group-2-1415741/full-scorecard"
+  },
+  {
+    "date": "Jun 17, 2024",
+    "team1": "West Indies",
+    "team2": "Afghanistan",
+    "winner": "West Indies",
+    "margin": "104 runs",
+    "ground": "Gros Islet",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/west-indies-vs-afghanistan-40th-match-group-c-1415740/full-scorecard"
+  },
+  {
+    "date": "Jun 17, 2024",
+    "team1": "New Zealand",
+    "team2": "P.N.G.",
+    "winner": "New Zealand",
+    "margin": "7 wickets",
+    "ground": "Tarouba",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/new-zealand-vs-papua-new-guinea-39th-match-group-c-1415739/full-scorecard"
+  },
+  {
+    "date": "Jun 16, 2024",
+    "team1": "Netherlands",
+    "team2": "Sri Lanka",
+    "winner": "Sri Lanka",
+    "margin": "83 runs",
+    "ground": "Gros Islet",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-vs-sri-lanka-38th-match-group-d-1415738/full-scorecard"
+  },
+  {
+    "date": "Jun 16, 2024",
+    "team1": "Bangladesh",
+    "team2": "Nepal",
+    "winner": "Bangladesh",
+    "margin": "21 runs",
+    "ground": "Kingstown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-nepal-37th-match-group-d-1415737/full-scorecard"
+  },
+  {
+    "date": "Jun 16, 2024",
+    "team1": "Ireland",
+    "team2": "Pakistan",
+    "winner": "Pakistan",
+    "margin": "3 wickets",
+    "ground": "Lauderhill",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/ireland-vs-pakistan-36th-match-group-a-1415736/full-scorecard"
+  },
+  {
+    "date": "Jun 15, 2024",
+    "team1": "Australia",
+    "team2": "Scotland",
+    "winner": "Australia",
+    "margin": "5 wickets",
+    "ground": "Gros Islet",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/australia-vs-scotland-35th-match-group-b-1415735/full-scorecard"
+  },
+  {
+    "date": "Jun 15, 2024",
+    "team1": "England",
+    "team2": "Namibia",
+    "winner": "England",
+    "margin": "41 runs",
+    "ground": "North Sound",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/england-vs-namibia-34th-match-group-b-1415734/full-scorecard"
+  },
+  {
+    "date": "Jun 14, 2024",
+    "team1": "New Zealand",
+    "team2": "Uganda",
+    "winner": "New Zealand",
+    "margin": "9 wickets",
+    "ground": "Tarouba",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/new-zealand-vs-uganda-32nd-match-group-c-1415732/full-scorecard"
+  },
+  {
+    "date": "Jun 14, 2024",
+    "team1": "Nepal",
+    "team2": "South Africa",
+    "winner": "South Africa",
+    "margin": "1 run",
+    "ground": "Kingstown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-vs-south-africa-31st-match-group-d-1415731/full-scorecard"
+  },
+  {
+    "date": "Jun 13, 2024",
+    "team1": "Afghanistan",
+    "team2": "P.N.G.",
+    "winner": "Afghanistan",
+    "margin": "7 wickets",
+    "ground": "Tarouba",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-papua-new-guinea-29th-match-group-c-1415729/full-scorecard"
+  },
+  {
+    "date": "Jun 13, 2024",
+    "team1": "England",
+    "team2": "Oman",
+    "winner": "England",
+    "margin": "8 wickets",
+    "ground": "North Sound",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/england-vs-oman-28th-match-group-b-1415728/full-scorecard"
+  },
+  {
+    "date": "Jun 13, 2024",
+    "team1": "Bangladesh",
+    "team2": "Netherlands",
+    "winner": "Bangladesh",
+    "margin": "25 runs",
+    "ground": "Kingstown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-netherlands-27th-match-group-d-1415727/full-scorecard"
+  },
+  {
+    "date": "Jun 12, 2024",
+    "team1": "West Indies",
+    "team2": "New Zealand",
+    "winner": "West Indies",
+    "margin": "13 runs",
+    "ground": "Tarouba",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/west-indies-vs-new-zealand-26th-match-group-c-1415726/full-scorecard"
+  },
+  {
+    "date": "Jun 12, 2024",
+    "team1": "U.S.A.",
+    "team2": "India",
+    "winner": "India",
+    "margin": "7 wickets",
+    "ground": "New York",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/united-states-of-america-vs-india-25th-match-group-a-1415725/full-scorecard"
+  },
+  {
+    "date": "Jun 11, 2024",
+    "team1": "Australia",
+    "team2": "Namibia",
+    "winner": "Australia",
+    "margin": "9 wickets",
+    "ground": "North Sound",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/australia-vs-namibia-24th-match-group-b-1415724/full-scorecard"
+  },
+  {
+    "date": "Jun 11, 2024",
+    "team1": "Canada",
+    "team2": "Pakistan",
+    "winner": "Pakistan",
+    "margin": "7 wickets",
+    "ground": "New York",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/canada-vs-pakistan-22nd-match-group-a-1415722/full-scorecard"
+  },
+  {
+    "date": "Jun 10, 2024",
+    "team1": "Bangladesh",
+    "team2": "South Africa",
+    "winner": "South Africa",
+    "margin": "4 runs",
+    "ground": "New York",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-south-africa-21st-match-group-d-1415721/full-scorecard"
+  },
+  {
+    "date": "Jun 9, 2024",
+    "team1": "Oman",
+    "team2": "Scotland",
+    "winner": "Scotland",
+    "margin": "7 wickets",
+    "ground": "North Sound",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/oman-vs-scotland-20th-match-group-b-1415720/full-scorecard"
+  },
+  {
+    "date": "Jun 9, 2024",
+    "team1": "India",
+    "team2": "Pakistan",
+    "winner": "India",
+    "margin": "6 runs",
+    "ground": "New York",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/india-vs-pakistan-19th-match-group-a-1415719/full-scorecard"
+  },
+  {
+    "date": "Jun 8, 2024",
+    "team1": "West Indies",
+    "team2": "Uganda",
+    "winner": "West Indies",
+    "margin": "134 runs",
+    "ground": "Providence",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/west-indies-vs-uganda-18th-match-group-c-1415718/full-scorecard"
+  },
+  {
+    "date": "Jun 8, 2024",
+    "team1": "Australia",
+    "team2": "England",
+    "winner": "Australia",
+    "margin": "36 runs",
+    "ground": "Bridgetown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/australia-vs-england-17th-match-group-b-1415717/full-scorecard"
+  },
+  {
+    "date": "Jun 8, 2024",
+    "team1": "Netherlands",
+    "team2": "South Africa",
+    "winner": "South Africa",
+    "margin": "4 wickets",
+    "ground": "New York",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/netherlands-vs-south-africa-16th-match-group-d-1415716/full-scorecard"
+  },
+  {
+    "date": "Jun 7, 2024",
+    "team1": "Bangladesh",
+    "team2": "Sri Lanka",
+    "winner": "Bangladesh",
+    "margin": "2 wickets",
+    "ground": "Dallas",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/bangladesh-vs-sri-lanka-15th-match-group-d-1415715/full-scorecard"
+  },
+  {
+    "date": "Jun 7, 2024",
+    "team1": "Afghanistan",
+    "team2": "New Zealand",
+    "winner": "Afghanistan",
+    "margin": "84 runs",
+    "ground": "Providence",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-new-zealand-14th-match-group-c-1415714/full-scorecard"
+  },
+  {
+    "date": "Jun 7, 2024",
+    "team1": "Canada",
+    "team2": "Ireland",
+    "winner": "Canada",
+    "margin": "12 runs",
+    "ground": "New York",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/canada-vs-ireland-13th-match-group-a-1415713/full-scorecard"
+  },
+  {
+    "date": "Jun 6, 2024",
+    "team1": "Namibia",
+    "team2": "Scotland",
+    "winner": "Scotland",
+    "margin": "5 wickets",
+    "ground": "Bridgetown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/namibia-vs-scotland-12th-match-group-b-1415712/full-scorecard"
+  },
+  {
+    "date": "Jun 6, 2024",
+    "team1": "U.S.A.",
+    "team2": "Pakistan",
+    "winner": "tied",
+    "margin": "-",
+    "ground": "Dallas",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/united-states-of-america-vs-pakistan-11th-match-group-a-1415711/full-scorecard"
+  },
+  {
+    "date": "Jun 5, 2024",
+    "team1": "Australia",
+    "team2": "Oman",
+    "winner": "Australia",
+    "margin": "39 runs",
+    "ground": "Bridgetown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/australia-vs-oman-10th-match-group-b-1415710/full-scorecard"
+  },
+  {
+    "date": "Jun 5, 2024",
+    "team1": "P.N.G.",
+    "team2": "Uganda",
+    "winner": "Uganda",
+    "margin": "3 wickets",
+    "ground": "Providence",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/papua-new-guinea-vs-uganda-9th-match-group-c-1415709/full-scorecard"
+  },
+  {
+    "date": "Jun 5, 2024",
+    "team1": "India",
+    "team2": "Ireland",
+    "winner": "India",
+    "margin": "8 wickets",
+    "ground": "New York",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/india-vs-ireland-8th-match-group-a-1415708/full-scorecard"
+  },
+  {
+    "date": "Jun 4, 2024",
+    "team1": "Nepal",
+    "team2": "Netherlands",
+    "winner": "Netherlands",
+    "margin": "6 wickets",
+    "ground": "Dallas",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/nepal-vs-netherlands-7th-match-group-d-1415707/full-scorecard"
+  },
+  {
+    "date": "Jun 4, 2024",
+    "team1": "England",
+    "team2": "Scotland",
+    "winner": "no result",
+    "margin": "-",
+    "ground": "Bridgetown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/england-vs-scotland-6th-match-group-b-1415706/full-scorecard"
+  },
+  {
+    "date": "Jun 3, 2024",
+    "team1": "Afghanistan",
+    "team2": "Uganda",
+    "winner": "Afghanistan",
+    "margin": "125 runs",
+    "ground": "Providence",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/afghanistan-vs-uganda-5th-match-group-c-1415705/full-scorecard"
+  },
+  {
+    "date": "Jun 3, 2024",
+    "team1": "South Africa",
+    "team2": "Sri Lanka",
+    "winner": "South Africa",
+    "margin": "6 wickets",
+    "ground": "New York",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/south-africa-vs-sri-lanka-4th-match-group-d-1415704/full-scorecard"
+  },
+  {
+    "date": "Jun 2, 2024",
+    "team1": "Namibia",
+    "team2": "Oman",
+    "winner": "tied",
+    "margin": "-",
+    "ground": "Bridgetown",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/namibia-vs-oman-3rd-match-group-b-1415703/full-scorecard"
+  },
+  {
+    "date": "Jun 2, 2024",
+    "team1": "West Indies",
+    "team2": "P.N.G.",
+    "winner": "West Indies",
+    "margin": "5 wickets",
+    "ground": "Providence",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/west-indies-vs-papua-new-guinea-2nd-match-group-c-1415702/full-scorecard"
+  },
+  {
+    "date": "Jun 1, 2024",
+    "team1": "U.S.A.",
+    "team2": "Canada",
+    "winner": "U.S.A.",
+    "margin": "7 wickets",
+    "ground": "Dallas",
+    "scorecard": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166/united-states-of-america-vs-canada-1st-match-group-a-1415701/full-scorecard"
+  }
+]
